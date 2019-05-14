@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-10T20:09:56Z" name="Default suite" finished-at="2019-05-10T20:09:56Z" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2019-05-10T20:09:56Z" name="Default test" finished-at="2019-05-10T20:09:56Z" duration-ms="67">
+      <class name="SeleniumWebsiteTest.SeleniumTest.SampleTestNG">
+        <test-method is-config="true" signature="DBConnectionOn()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="DBConnectionOn" finished-at="2019-05-10T20:09:56Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBConnectionOn -->
+        <test-method is-config="true" signature="LaunchBrowserOn()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LaunchBrowserOn" finished-at="2019-05-10T20:09:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserOn -->
+        <test-method signature="a()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="a" finished-at="2019-05-10T20:09:56Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="LoginOn()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LoginOn" finished-at="2019-05-10T20:09:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginOn -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LogOut" finished-at="2019-05-10T20:09:56Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="LoginOn()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LoginOn" finished-at="2019-05-10T20:09:56Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginOn -->
+        <test-method signature="b()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="b" finished-at="2019-05-10T20:09:56Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LogOut" finished-at="2019-05-10T20:09:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="LaunchBrowserOff()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="LaunchBrowserOff" finished-at="2019-05-10T20:09:56Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserOff -->
+        <test-method is-config="true" signature="DBConnectionOff()[pri:0, instance:SeleniumWebsiteTest.SeleniumTest.SampleTestNG@6236eb5f]" started-at="2019-05-10T20:09:56Z" name="DBConnectionOff" finished-at="2019-05-10T20:09:56Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBConnectionOff -->
+      </class> <!-- SeleniumWebsiteTest.SeleniumTest.SampleTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
