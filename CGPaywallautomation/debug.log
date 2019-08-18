@@ -1,0 +1,5 @@
+[0111/163939.315:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ASIF~1.CHO\AppData\Local\Temp\scoped_dir15196_5776\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0111/164045.543:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[0111/164046.657:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ASIF~1.CHO\AppData\Local\Temp\scoped_dir15196_5776\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0206/224149.661:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0220/163602.108:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
